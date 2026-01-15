@@ -1,0 +1,11 @@
+backend/.gitignore
+backend/venv
+frontend/.gitignore
+frontend/node_modules
+backend/huggingface_cache
+backend/huggingface
+
+backend/.env
+backend/venv
+
+frontend/.env
